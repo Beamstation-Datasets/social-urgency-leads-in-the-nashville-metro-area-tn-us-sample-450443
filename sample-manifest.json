@@ -1,0 +1,12 @@
+{
+  "export_job_id": "3139edea-cb8e-4b78-8172-8bb3b5ba1ab9",
+  "id_short": 450443,
+  "published_at": "2026-04-12T19:09:53Z",
+  "repo_name": "social-urgency-leads-in-the-nashville-metro-area-tn-us-sample-450443",
+  "sample_asset_name": "beamstation_450443_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/450443/beamstation_450443_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv",
+  "sample_records": 88,
+  "sample_sha256": "c7e1693a77a9cc0fc80baf74f80e3defaee2ab6204ce8f99eb2cf4700b0b6fb1",
+  "sample_size_bytes": 307502,
+  "total_records": 881
+}
