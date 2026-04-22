@@ -1,6 +1,6 @@
 # Social Urgency Leads in the Nashville Metro Area, TN, US
 
-> Free BeamStation sample export with 81 rows and masked direct-contact fields.
+> Free BeamStation sample export with 114 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `450443` |
 | Location | Nashville-Davidson--Murfreesboro--Franklin, TN |
 | Category | Restaurants |
-| Full dataset size | 817 records |
-| Free sample size | 81 records (9.91%) |
-| Last export | 2026-04-15T07:08:48.261860+00:00 |
+| Full dataset size | 1,144 records |
+| Free sample size | 114 records (9.97%) |
+| Last export | 2026-04-22T13:19:51.158804+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/social-urgency-leads-in-the-nashville-metro-area-tn-us-sample-450443/releases/download/sample-latest/beamstation_450443_restaurants-us-nashvilledavidsonmurfreesborofranklintn_SAMPLE_DIST.csv) |
 
 ## What is in this sample
